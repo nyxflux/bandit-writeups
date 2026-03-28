@@ -16,17 +16,17 @@ ssh bandit17@bandit.labs.overthewire.org -p 2220
 
 
 
-ls 
+ls
 
 
 
-grep -vxFf passwords.new  passwords.old
+grep -vxFf passwords.old passwords.new
 
 
 
 \## Password found
 
-pGozC8kOHLkBMOaL0ICPvLV1IjQ5F1VA
+x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 
 
 
