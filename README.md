@@ -1,4 +1,4 @@
-\# OvertheWire Bandit Writeups 
+\# OverTheWire Bandit Writeups
 
 
 
